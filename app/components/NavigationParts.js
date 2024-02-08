@@ -14,7 +14,7 @@ export default function NavigationParts() {
 
     const profilePicStyle = "h-32 w-32 border-4 bg-white border-[#1F1F29]"
     const nameStyle = "font-thin text-5xl text-[#1F1F29] font-medium tracking-wide"
-    const linkStyle = "hover:ring-2 my-2 p-3 hover:ring-[#1F1F29] active:scale-95 duration-100"
+    const linkStyle = "hover:ring-2 my-2 p-3 hover:ring-[#1F1F29] active:scale-95 duration-200"
     const navStyle = `border-r-2 border-[#22242D] flex items-center pt-20 bg-[#F3EEE3] flex-col gap-5 overflow-auto fixed top-0 bottom-0 min-w-[25vw] w-1/4 ${roboto.className}`
     const activeLinkStyle = 'text-[#F5F5FA] bg-[#E96135] ring-2 ring-[#1F1F29] tracking-wider'
 
