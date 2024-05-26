@@ -15,7 +15,7 @@ function page() {
         </header>
       </section>
       <section className={`${font.className} grid grid-cols-2 gap-7`}>
-        <ProjectCards link="https://rayhan-habibi.github.io/Deliciao/" tags={["Tailwind", "Coffeshop", "GSAP"]} title={"Deliciao"} />
+        <ProjectCards link="https://rayhan-habibi.github.io/Deliciao/" tags={["Tailwind", "Coffeeshop", "GSAP"]} title={"Deliciao"} />
         <ProjectCards link="https://rayhan-habibi.github.io/Smart_Diction/"  tags={["Tailwind", "CSS"]} title={"Smart-Diction"} />
         <ProjectCards link="https://rayhan-habibi.github.io/Todolist/" tags={["Tailwind", "CSS"]} title={"Todo List"} />
         <ProjectCards link="https://rayhan-habibi.github.io/Hair-Day/" tags={["Bootstrap 5", "CSS"]} title={"Hair Day"} />

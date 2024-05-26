@@ -20,10 +20,10 @@ function InterludeName() {
       <section className='grid grid-cols-4 gap-5 grid-rows-2 pb-10 mx-10'>
         <header className={`${font.className} col-span-2 row-span-2 text-5xl text-[#1F1F29] pr-10 my-auto`}>
           <h1>
-            A Young and talented Full-Stack Web developer
+            A Young and talented Full-Stack Developer
           </h1>
           <h1 className='text-2xl mt-3'>
-            Create your dream website with your unique style and personality without any hassle 
+            Create your dream websites or apps with your unique style and personality without any hassle 
           </h1>
           <button className='text-2xl border-2 border-[#1F1F29] px-3 py-1 mt-3 hover:bg-[#E96135] hover:text-white bg-[#E96135]/30 duration-100'><Link href={'/contacts'}>Contact me</Link></button>
         </header>
